@@ -10,7 +10,7 @@
   "repo": "https://github.com/getchordlabs/chord",
   "icon": "./icon.png",
   "tags": ["finance", "data"],
-  "license": "PROPRIETARY",
+  "license": "MIT",
   "verified": false,
   "featured": false,
   "install": {
